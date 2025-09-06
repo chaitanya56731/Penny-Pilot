@@ -48,11 +48,17 @@ Scan the QR code using Expo Go app to run the app on your mobile.
 
 
 **ScreenShots:**
+**Welcome**
 <img width="464" height="889" alt="Screenshot 2025-09-03 230257" src="https://github.com/user-attachments/assets/7659c51d-704e-405d-8774-22eb12975d57" />
+**Login**
 <img width="413" height="876" alt="Screenshot 2025-09-03 230324" src="https://github.com/user-attachments/assets/be5dc317-82b0-4289-98c7-118adb5bad42" />
+**Signup**
 <img width="423" height="869" alt="Screenshot 2025-09-03 230342" src="https://github.com/user-attachments/assets/3557d779-cf5b-491e-99f3-bf05bf099466" />
+**Add Transactions**
 <img width="419" height="866" alt="Screenshot 2025-09-03 230510" src="https://github.com/user-attachments/assets/f22b418b-b231-49b8-a44b-b0dbb4e4b08e" />
+**Update Transaction**
 <img width="407" height="869" alt="Screenshot 2025-09-03 230608" src="https://github.com/user-attachments/assets/d1445f97-730d-41b9-8252-de0156c120f2" />
+**Visualizing Data**
 <img width="406" height="873" alt="Screenshot 2025-09-03 230638" src="https://github.com/user-attachments/assets/540528cc-171f-4914-9d0b-76f21ac20aa0" />
 
 
